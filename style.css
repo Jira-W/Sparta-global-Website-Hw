@@ -1,0 +1,28 @@
+body{
+  color: white;
+}
+
+.navlink{
+  margin: 0 80px;
+}
+
+.jumbotron {
+background-image: url(https://i2.wp.com/trouge.com/wp-content/uploads/2016/11/Yeezy-Season-3.jpg?fit=3778%2C1677&ssl=1);
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 400px;
+
+}
+
+.jumbo{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+.album{
+  font-family: 'Roboto', sans-serif;
+}
+
+.spotify{
+  display: block;
+  margin: 10px auto;
+}
